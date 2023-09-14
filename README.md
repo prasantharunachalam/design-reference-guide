@@ -1,2 +1,2 @@
-# design-play-book
-Play book for clean design
+# design-manual
+Manual for clean design
